@@ -1,0 +1,5 @@
+# Python runtime and local QA/build workspaces
+__pycache__/
+*.py[cod]
+.venv/
+.cache/
